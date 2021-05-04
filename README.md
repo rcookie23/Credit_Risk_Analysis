@@ -28,4 +28,4 @@ The accuracy score using this method could not be determined.
 
 ## Summary
 
-Using the methods with which we were able to produce reliable accuracy scores, it appears the ___ method is the most accurate at predicting credit worthiness. 
+Using the methods with which we were able to produce reliable accuracy scores, it appears the SMOTE oversampling method is the most accurate at predicting credit worthiness. 
