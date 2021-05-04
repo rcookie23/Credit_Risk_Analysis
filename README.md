@@ -18,7 +18,7 @@ The results of this analysis can be viewed in the .ipynb files contained in this
 ![Under Score](Resources/under_acc_score.png)
 
 - SMOTEENN Sampling
-![Smoteenn Score](Resources/smoteenn_acc_score)
+![Smoteenn Score](Resources/smoteenn_acc_score.png)
 
 - Balanced Random Forest Classifier
 The accuracy score using this method could not be determined. 
