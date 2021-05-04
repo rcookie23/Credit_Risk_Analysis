@@ -20,10 +20,10 @@ The results of this analysis can be viewed in the .ipynb files contained in this
 - SMOTEENN Sampling
 ![Smoteenn Score](Resources/smoteenn_acc_score.png)
 
-- Balanced Random Forest Classifier
+- Balanced Random Forest Classifier:
 The accuracy score using this method could not be determined. 
 
-- Easy Ensemble AdaBoost Classifier
+- Easy Ensemble AdaBoost Classifier:
 The accuracy score using this method could not be determined. 
 
 ## Summary
